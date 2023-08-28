@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XemuLauncher-CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "update xemu"
+    }
+  }
+}
